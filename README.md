@@ -1,4 +1,4 @@
-# Muhammad Saad — Native Android Developer
+# Muhammad Saad Native Android Developer
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-muhammadsaad--portfolio.web.app-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://muhammadsaad-portfolio.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad075/)
