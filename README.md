@@ -1,6 +1,6 @@
 # Muhammad Saad Native Android Developer
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-muhammadsaad--portfolio.web.app-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://muhammadsaad-portfolio.web.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-muhammadsaad--portfolio-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://saadev.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad075/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saaddevlabs@gmail.com)
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-- **Portfolio**: [https://muhammadsaad-portfolio.web.app/](https://muhammadsaad-portfolio.web.app/)
+- **Portfolio**: [https://saadev.site/](https://saadev.site/)
 - **Currently working on**: Native Android applications using Kotlin, Jetpack Compose, and Firebase (Clean Architecture / MVVM)
 - **Looking to collaborate on**: Android projects involving Firebase, Jetpack Compose, or AI integrations (Gemini API)
 - **Looking for help with**: Open-source Android/Compose projects to contribute to
@@ -18,7 +18,7 @@
 
 ## Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3DDC84?style=flat-square&logo=google-chrome&logoColor=black)](https://muhammadsaad-portfolio.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad075/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/muhammadsaad075) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ch.saad381) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/saaddevlabs) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saaddevlabs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3DDC84?style=flat-square&logo=google-chrome&logoColor=black)](https://saadev.site/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad075/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/muhammadsaad075) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ch.saad381) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/saaddevlabs) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saaddevlabs@gmail.com)
 
 ## Tech Stack
 
