@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-Muhammad Saad Android Developer
+
 I'm Muhammad Saad, an Android developer specializing in Kotlin, Jetpack Compose, and Firebase backend development. With 5+ published projects using MVVM architecture and clean code principles, I build scalable mobile applications that solve real-world problems.
 - **Portfolio**: [https://saadev.site/](https://saadev.site/)
 - **Currently working on**: Native Android applications using Kotlin, Jetpack Compose, and Firebase (Clean Architecture / MVVM)
