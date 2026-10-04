@@ -53,44 +53,38 @@ val saad = AndroidDeveloper(
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>SaadPay</h3>
-      A fintech Android app focused on smooth, secure payment experiences.
+      <h3>DevJournal</h3>
+      A native developer journal and blog client built with Kotlin and Jetpack Compose. It shares a Firebase backend with a companion web admin panel.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       <br/><br/>
-      <a href="https://github.com/chsaad-dev?tab=repositories">View on GitHub</a>
+      <a href="https://github.com/chsaad-dev/Dev-Journal-Android">View on GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <h3>SpendWise</h3>
-      An offline expense tracker that shows you where your money goes, no internet needed.
+      <h3>GiveEase</h3>
+      My Final Year Project: a donation platform that connects donors with verified NGOs across Pakistan, with identity checks and admin review.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=black" />
-      <img src="https://img.shields.io/badge/MVVM-073042?style=flat-square" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MVVM-073042?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/chsaad-dev?tab=repositories">View on GitHub</a>
+      <a href="https://github.com/chsaad-dev/GiveEase">View on GitHub</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>GupShup</h3>
-      A real time chat application powered by Firebase.
+      A feature rich messaging app with authentication, Firestore, local storage through Room and media handling with Cloudinary.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=black" /> <img src="https://img.shields.io/badge/Material_3-6750A4?style=flat-square&logo=materialdesign&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/chsaad-dev?tab=repositories">View on GitHub</a>
+      <a href="https://github.com/chsaad-dev/GupShup">View on GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <h3>GiveEase</h3>
-      My Final Year Project, a larger application built from start to finish.
+      <h3>NoteSync</h3>
+      An offline first notes app with cloud sync, built with Flutter, Riverpod, Isar and Firebase. Local data is encrypted at rest with AES 256.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/AES_256-073042?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/chsaad-dev?tab=repositories">View on GitHub</a>
+      <a href="https://github.com/chsaad-dev/NoteSync">View on GitHub</a>
     </td>
   </tr>
 </table>
