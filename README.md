@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad075/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saaddevlabs@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=chsaad-dev&color=3DDC84&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://hits.sh/github.com/chsaad-dev.svg?style=flat-square&label=profile%20views&color=3DDC84&labelColor=073042" alt="Profile views" />
 
 </div>
 
